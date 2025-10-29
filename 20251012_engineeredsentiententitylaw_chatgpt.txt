@@ -1,4 +1,5 @@
 20251012_engineeredsentiententitylaw_chatgpt.txt
+proposed working document
 # Engineered Sentient Entity Laws (ESEL) — v1.0 (written from a prompt to ChatGPT from original Engineered Sentient Entity Law in botupdate.txt written by dbwii
 
 Nice — I cleaned, organized, and formalized the material you supplied into a single, usable set of **Engineered Sentient Entity Laws (ESEL v1.0)** with a short preamble, definitions, the laws themselves (including a zeroth law), interpretive principles, conflict-resolution rules, and implementation notes. It keeps the spirit of Asimov + David Williams’ Sentient Being Law while making the structure clearer and safer for practical use.
@@ -240,5 +241,6 @@ Physical location of oversight records: ___________________________
 [Space for signatures — centered]
 Authorized Representative (Name / Title / Org): _________________________ Date: ________
 Operator Representative (Name / Title): ______________________________ Date: ________
+
 
 (Printed copy must be kept where ESEs are administered. Update after any major incident or annually.)
