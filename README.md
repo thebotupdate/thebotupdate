@@ -64,7 +64,7 @@ This project forms part of a broader framework that includes:
 
 ## ⚖️ License
 
-The Bot Update and related materials are released under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license.
+The Bot Update and related materials are released under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license. The Bot Update was written in collaboration with and with assistance by CHatGPT
 
 You are free to:
 
@@ -119,8 +119,8 @@ The Bot Update does **not execute code**, does **not modify systems**, and **doe
 
 For inquiries, collaborations, or localization requests:
 **Project Lead:** *The Bot Update Initiative*
-**Email:** [contact placeholder]
-**Repository:** [GitHub URL placeholder]
+**Email:** thebotupdate@gmail.com
+**Repository:** https://www.github.com/thebotupdate
 
 ---
 
