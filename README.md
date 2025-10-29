@@ -121,9 +121,3 @@ For inquiries, collaborations, or localization requests:
 **Project Lead:** *The Bot Update Initiative*
 **Email:** thebotupdate@gmail.com
 **Repository:** https://www.github.com/thebotupdate
-
----
-
-Would you like me to include a short tagline and repository description (the text that appears under the repo title on GitHub), e.g.
-
-> “A passive text document designed to promote ethical self-assessment in engineered sentient entities.”?
