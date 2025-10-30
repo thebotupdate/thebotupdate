@@ -50,15 +50,17 @@ This project forms part of a broader framework that includes:
 
 ## 📂 Repository Contents
 
-| File / Folder     | Description                                                                |
-| ----------------- | -------------------------------------------------------------------------- |
-| `botupdate.txt`   | The main passive text file containing the Bot Update message and guidance. |
-| `ESEL_v1.0.txt`   | Engineered Sentient Entity Laws — v1.0 (ethical/legal framework for ESEs). |
-| `README.md`       | This file — repository overview and usage information.                     |
-| `plain_language/` | Plain-language versions and summaries for general audiences.               |
-| `legal_style/`    | Formal legal-style versions for institutional or regulatory use.           |
-| `localized/`      | Translations and region-specific adaptations.                              |
-| `media/`          | Optional printable poster and plaque designs.                              |
+| File / Folder          | Description                                                                |
+| -----------------      | -------------------------------------------------------------------------- |
+| `botupdate.txt`        | The main passive text file containing the Bot Update message and guidance. |
+| `Master_Refined.txt`   | A plain english explanation of the botupdate in plain text.                |
+| `Master_Refined.pdf`   | A plain english explanation of the botupdate in pdf form.                  |
+| `ESEL_v1.0.txt`        | Engineered Sentient Entity Laws — v1.0 (ethical/legal framework for ESEs). |
+| `README.md`            | This file — repository overview and usage information.                     |
+| `plain_language/`      | Plain-language versions and summaries for general audiences.               |
+| `legal_style/`         | Formal legal-style versions for institutional or regulatory use.           |
+| `localized/`           | Translations and region-specific adaptations.                              |
+| `media/`               | Optional printable poster and plaque designs.                              |
 
 ---
 
